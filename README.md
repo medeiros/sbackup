@@ -10,4 +10,5 @@ Created with Maven scala-archetype (net.alchim31.maven:scala-archetype-simple:1.
 
 ---
 
-Usage: scala Backup [source-directory] [target-directory]
+Usage: 
+	scala Backup [source-directory] [target-directory]
